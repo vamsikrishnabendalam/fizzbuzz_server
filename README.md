@@ -1,5 +1,4 @@
 # fizzbuzz_server
-# Fizz-Buzz REST Server
 
 ## Introduction
 
