@@ -27,7 +27,6 @@ API Documentation
 The API provides the following endpoints:
 
 GET /: A welcome message.
-GET /fizzbuzz: Generate Fizz-Buzz sequences.
 POST /fizzbuzz: Generate Fizz-Buzz sequences based on user input.
 GET /statistics: Retrieve statistics about the most frequently used parameters.
 
